@@ -12,7 +12,6 @@ This project showcases a custom select menu design using HTML, CSS, and JavaScri
 ## Project Structure
 
 ```bash
-.
 ├── images/                 # Contains icons for social media platforms and arrow
 │   ├── arrow.png
 │   ├── facebook.png
